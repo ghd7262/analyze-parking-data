@@ -8,7 +8,7 @@ The purpose of this project is to provide as much analyzed information of the pa
 
 ### Methods Used
 - Data Visualization
-- Machine Learning
+- Machine Learning: Logistic Regression / Linear Regression
 
 ### Technologies
 - Python
