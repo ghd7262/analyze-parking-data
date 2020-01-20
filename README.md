@@ -1,5 +1,3 @@
-# analyze-parking-data
-
 # Analyze parking data at UC San Diego
 This project aims to analyze the parking data at UC San Diego from 2016 to 2019. The data is from a parking survey taken by UC San Diego's Transportation Services.
 
